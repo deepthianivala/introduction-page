@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    font-family: 'Inter';
+    font-style: normal;
+}
+.top-content{
+    background-color:#FFCD9E;
+    height: 70vh;
+}
+.dev-img{
+    float: right;
+    width: 26%;
+    padding-right: 110px;
+    padding-top: 50px;
+}
+.footer{
+    background-color: #282828;
+    height: 30vh;
+    position: relative; 
+}
+.p1{
+    position: absolute;
+    height: 108px;
+    width: 562px;
+    left: 136px;
+    right: 742px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 130%;
+
+}
+.p2{
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 136px;
+    top: 150px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+}
+.p3{
+    position: absolute;
+    width: 227px;
+    height: 81px;
+    left: 136px;
+    top: 240px;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+}
+.p4{
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 136px;
+    top: 375px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+}
+.mail{
+    box-sizing: border-box;
+    position: absolute;
+    width: 343px;
+    height: 63px;
+    left: 135px;
+    top: 350px;
+    background: #FFFFFF;
+    border: 4px solid #000000;
+    border-radius: 8px;
+    padding: 20px;
+}
+.reg-btn{
+    position: absolute;
+    width: 216px;
+    height: 63px;
+    left: 496px;
+    top: 350px;
+    background: #282828;
+    border-radius: 7px;
+}
+.btn-formatting{
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+.footer-left{
+    box-sizing: border-box;
+    padding: 30px 0px 0px 0px;
+    display: inline-block;
+    width: 50%;
+}
+.footer-left ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.footer-left ul li {
+    color: #ffffff;
+    font-size: 14px;
+    padding: 5px 0px 5px 0px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.footer-right{
+    float: right;
+    padding: 30px 0px 0px 0px;
+    padding-right: 150px;
+    width:30%;
+}
+.footer-right ul li{
+    color: #FFFFFF;
+    list-style-type: none;
+    margin-top: 20px;
+}
+
+.LinkedIn{
+    display: inline-block;
+}
+.Instagram{
+    display: inline-block;
+} 
